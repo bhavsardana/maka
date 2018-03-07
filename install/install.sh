@@ -22,4 +22,3 @@ tar -zxvf mongodb-linux-x86_64-3.6.3.tgz
 mkdir -p mongodb
 cp -R -n mongodb-linux-x86_64-3.6.3/ mongodb
 
-#test entry
